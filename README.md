@@ -118,5 +118,3 @@ The project demonstrates the use of PostGIS for advanced geospatial data analysi
 ## Conclusion
 This project showcases advanced geospatial data analysis using PostGIS and QGIS, demonstrating the ability to handle real-world geospatial data tasks effectively.
 ```
-
-Copy the above content and save it in a file named `README.md` in your project directory.
